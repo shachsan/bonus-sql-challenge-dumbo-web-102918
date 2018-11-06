@@ -2,7 +2,7 @@
 require 'csv'
 require 'pry'
 
-cvs
+cvs_data
 
 
 binding.pry
