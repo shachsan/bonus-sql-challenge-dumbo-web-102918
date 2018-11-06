@@ -2,7 +2,7 @@
 require 'csv'
 require 'pry'
 
-cvs_data =CVS.
+cvs_data =CVS.read()
 
 
 binding.pry
