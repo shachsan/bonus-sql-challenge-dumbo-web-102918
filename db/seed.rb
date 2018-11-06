@@ -2,7 +2,7 @@
 require 'csv'
 require 'pry'
 
-cvs_data =CVS.read("../daily_show_guests.")
+cvs_data =CVS.read("../daily_show_guests.csv")
 
 
 binding.pry
